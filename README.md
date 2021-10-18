@@ -11,3 +11,7 @@ API REST para acceder a una base de datos MySQL y llevar un registro de montaña
   - Para testeo de los 4 verbos HTTP básicos que usamos en las solicitudes para interactuar con recursos en un sistema REST (GET, POST, PUT, DELETE)
 
 La API fue generada con el propósito de controlar el rendimiento con JMeter a través de pruebas de estrés con más de 1000 hilos y 10 request por hilo.
+
+### Video de pruebas de rendimiento realizadas sobre la API
+
+[Pruebas de rendimiento con JMeter](https://drive.google.com/file/d/1A6_6wCD1gJt5WH_l9FI0LfWB3SnGi1bt/view?usp=sharing)
